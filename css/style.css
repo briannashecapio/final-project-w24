@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+header .wrapper {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+.nav {
+    display: inline-block;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+
+
